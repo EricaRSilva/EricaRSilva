@@ -3,7 +3,7 @@
   <a href="https://github.com/EricaRSilva">
 </div>
 
-- 💻 Buscando minha primeira vaga com Junior
+- 💻 Buscando minha primeira vaga Junior
 - 📊 Estudando: Phyton, Power By e conseitos de Estatistica
 - 📫 erikaroniela9@gmail.com
 - 😄 Pronouns: Ela/dela
