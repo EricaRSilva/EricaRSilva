@@ -1,4 +1,4 @@
-## Olá! Eu sou Érica Silva, estudante de programação e tecnologia!
+## Olá! Eu sou ANA, estudante de programação e tecnologia!
 <div align="180cm">
   <a href="https://github.com/EricaRSilva">
 </div>
