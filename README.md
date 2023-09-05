@@ -4,7 +4,7 @@
 </div>
 
 - 💻 Buscando minha primeira vaga Junior
-- 📊 Estudando: Phyton, Power By e conseitos de Estatistica
+- 📊 Estudando: Phyton, HTML e conseitos de Estatistica
 - 📫 erikaroniela9@gmail.com
 - 😄 Pronouns: Ela/dela
 
