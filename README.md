@@ -4,7 +4,7 @@
 </div>
 
 - 💻 Buscando minha primeira vaga Junior
-- 📊 Estudando:HTML, CSS, e JAVASCRIPT
+- 📊 Estudando:HTML, CSS, JAVASCRIPT e Python
 - 📫 erikaroniela9@gmail.com
 - 😄 Pronouns: Ela/dela
 
