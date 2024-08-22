@@ -3,7 +3,7 @@
   <a href="https://github.com/EricaRSilva">
 </div>
 
-- 💻 Buscando minha primeira vaga Junior
+- 💻 Foque no processo. Todos os dias faça algo que te aproxime de um amanhã melhor!
 - 📊 Estudando:HTML, CSS, JAVASCRIPT e Python
 - 📫 erikaroniela9@gmail.com
 - 😄 Pronouns: Ela/dela
