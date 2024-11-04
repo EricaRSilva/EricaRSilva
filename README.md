@@ -6,6 +6,7 @@
 - 💻 Foque no processo. Todos os dias faça algo que te aproxime de um amanhã melhor!
 - 📊 Estudando:HTML, CSS, JAVASCRIPT e Python
 - 📫 erikaroniela9@gmail.com
+- 🥇https://www.dio.me/users/erikaroniela9
 - 😄 Pronouns: Ela/dela
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericarsilva&show_icons=true&theme=dracula)
