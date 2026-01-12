@@ -4,7 +4,7 @@
 </div>
 
 - 💻 Foque no processo. Todos os dias faça algo que te aproxime de um amanhã melhor!
-- 📊 Estudando:HTML, CSS, JAVASCRIPT IA
+- 📊 Estudando: HTML, CSS, JAVASCRIPT e IA Generativa
 - 📫 erikaroniela9@gmail.com
 - 🥇https://www.dio.me/users/erikaroniela9
 - 😄 Pronouns: Ela/dela
