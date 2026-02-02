@@ -9,7 +9,7 @@
 - 🥇https://www.dio.me/users/erikaroniela9
 - 😄 Pronouns: Ela/dela
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericarsilva&show_icons=true&theme=dracula)
+
   
 <div>
  <a href="https://www.instagram.com/fotografia_criativa_ia/" target="_blank"><img src-"https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
